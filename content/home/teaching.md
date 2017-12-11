@@ -15,6 +15,11 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
-
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+# Video Colorization
+MICROSOFT AI & RESEARCH, USA, Senior Data Scientist Anirudh Koul.
+* Proposed a spatio temporal end to end module that effectively exploits temporal redundancies while
+  maintaining real-time speed for video colorization task.
+* Spatial Transformer Network was used to encode optical flow features for motion estimation and motion
+   compensation to reduce flickering noise in the output.
+* Early fusion, slow fusion and 3D convolutions were explored for the joint processing of multiple
+consecutive video frames.
