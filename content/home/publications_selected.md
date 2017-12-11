@@ -31,3 +31,9 @@ list_format = 1
 publication_type = "-1"
 +++
 
+## Option Valuation and Analysis 
+#### INDIAN INSTITUTE OF MANAGEMENT, CALCUTTA, Prof. Vivek Rajvanshi
+1. Volatility estimation using real time stock data of top five listed companies on NSE (National Stock
+Exchange) leading to in-depth study of stochastic calculus, elementary PDE and financial modelling.
+2. Options were priced using Black Scholes Model and comparative analysis was done with real time
+quoted option prices for any arbitrage opportunity that existed.
