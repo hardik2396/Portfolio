@@ -16,3 +16,12 @@ list_format = 3
 image = ""
 caption = ""
 +++
+
+# Video Colorization
+MICROSOFT AI & RESEARCH, USA, Senior Data Scientist Anirudh Koul.
+* Proposed a spatio temporal end to end module that effectively exploits temporal redundancies while
+  maintaining real-time speed for video colorization task.
+* Spatial Transformer Network was used to encode optical flow features for motion estimation and motion
+   compensation to reduce flickering noise in the output.
+* Early fusion, slow fusion and 3D convolutions were explored for the joint processing of multiple
+consecutive video frames.
