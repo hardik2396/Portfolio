@@ -6,7 +6,7 @@ widget = "publications_selected"
 active = true
 date = 2016-04-20
 
-title = "Selected Publications"
+title = "Research Experience"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -30,6 +30,16 @@ list_format = 1
 #  6: Book chapter
 publication_type = "-1"
 +++
+
+## Video Colorization
+#### MICROSOFT AI & RESEARCH, USA, Senior Data Scientist Anirudh Koul.
+* Proposed a spatio temporal end to end module that effectively exploits temporal redundancies while
+maintaining real-time speed for video colorization task.
+* Spatial Transformer Network was used to encode optical flow features for motion estimation and motion
+compensation to reduce flickering noise in the output.
+* Early fusion, slow fusion and 3D convolutions were explored for the joint processing of multiple
+consecutive video frames.
+
 
 ## Option Valuation and Analysis 
 #### INDIAN INSTITUTE OF MANAGEMENT, CALCUTTA, Prof. Vivek Rajvanshi
